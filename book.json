@@ -19,8 +19,6 @@
     "output": null, 
     "pdf": {
         "fontSize": 12, 
-        "footerTemplate": null, 
-        "headerTemplate": null, 
         "margin": {
             "bottom": 36, 
             "left": 62, 
